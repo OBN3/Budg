@@ -35,6 +35,14 @@
       "category": "מסעדה",
       "paidBy": "שותף",
       "splitMethod": "equal"
+    },
+    {
+      "date": "2024-08-15",
+      "description": "מלון באילת",
+      "amount": 2000,
+      "category": "נופש",
+      "paidBy": "שותפה",
+      "splitMethod": "equal"
     }
   ]
 }
