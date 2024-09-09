@@ -5,14 +5,6 @@
   },
   "expenses": [
     {
-      "date": "2024-08-14",
-      "description": "בדחקקקקנ",
-      "amount": 153.4,
-      "category": "מסעדה",
-      "paidBy": "אהובה",
-      "splitMethod": "equal"
-    },
-    {
       "date": "2024-09-09",
       "description": "קפה בוקר ",
       "amount": 50,
