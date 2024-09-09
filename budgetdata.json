@@ -48,7 +48,7 @@
 "date": "2024-09-09",
 "description": "תשלום חשבון חשמל",
 "amount": 320.50,
-"category": "חשבונות",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -56,7 +56,7 @@
 "date": "2024-09-07",
 "description": "קניית בגדים",
 "amount": 450.75,
-"category": "קניות",
+"category": "שונות",
 "paidBy": "שותפה",
 "splitMethod": "equal"
 },
@@ -64,7 +64,7 @@
 "date": "2024-09-05",
 "description": "תדלוק רכב",
 "amount": 280,
-"category": "תחבורה",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -96,7 +96,7 @@
 "date": "2024-08-28",
 "description": "תשלום חשבון מים",
 "amount": 180.25,
-"category": "חשבונות",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -104,7 +104,7 @@
 "date": "2024-08-26",
 "description": "קניית מתנה ליום הולדת",
 "amount": 200,
-"category": "מתנות",
+"category": "שונות",
 "paidBy": "שותפה",
 "splitMethod": "equal"
 },
@@ -112,7 +112,7 @@
 "date": "2024-08-24",
 "description": "תיקון מכונת כביסה",
 "amount": 350,
-"category": "תחזוקת בית",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -128,7 +128,7 @@
 "date": "2024-08-20",
 "description": "קניית מוצרי ניקיון",
 "amount": 95.60,
-"category": "מוצרי בית",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -144,7 +144,7 @@
 "date": "2024-08-16",
 "description": "תשלום ביטוח רכב",
 "amount": 1200,
-"category": "ביטוח",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -152,7 +152,7 @@
 "date": "2024-08-14",
 "description": "קניית ציוד ספורט",
 "amount": 300,
-"category": "ספורט",
+"category": "שונות",
 "paidBy": "שותפה",
 "splitMethod": "equal"
 },
@@ -160,7 +160,7 @@
 "date": "2024-08-12",
 "description": "תשלום חשבון אינטרנט",
 "amount": 120,
-"category": "חשבונות",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -168,7 +168,7 @@
 "date": "2024-08-10",
 "description": "קניית מזון לחיות מחמד",
 "amount": 150.80,
-"category": "חיות מחמד",
+"category": "מזון",
 "paidBy": "שותפה",
 "splitMethod": "equal"
 },
@@ -176,7 +176,7 @@
 "date": "2024-08-08",
 "description": "תשלום דמי ניהול בית משותף",
 "amount": 200,
-"category": "דיור",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -184,7 +184,7 @@
 "date": "2024-08-06",
 "description": "קניית תרופות בבית מרקחת",
 "amount": 85.30,
-"category": "בריאות",
+"category": "שונות",
 "paidBy": "שותפה",
 "splitMethod": "equal"
 },
@@ -192,7 +192,7 @@
 "date": "2024-08-02",
 "description": "תשלום חניה חודשית",
 "amount": 250,
-"category": "תחבורה",
+"category": "שונות",
 "paidBy": "שותף",
 "splitMethod": "equal"
 },
@@ -200,7 +200,7 @@
 "date": "2024-07-31",
 "description": "קניית ספרי לימוד",
 "amount": 320,
-"category": "חינוך",
+"category": "שונות",
 "paidBy": "שותפה",
 "splitMethod": "equal"
 }
