@@ -51,6 +51,14 @@
       "category": "מזון",
       "paidBy": "שותף",
       "splitMethod": "equal"
+    },
+    {
+      "date": "2024-09-09",
+      "description": "החזר חוב",
+      "amount": 321.8,
+      "category": "שונות",
+      "paidBy": "שותפה",
+      "splitMethod": "equal"
     }
   ]
 }
