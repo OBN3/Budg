@@ -203,6 +203,22 @@
       "category": "בידור",
       "paidBy": "שותפה",
       "splitMethod": "full"
+    },
+    {
+      "date": "",
+      "description": "",
+      "amount": null,
+      "category": "",
+      "paidBy": "",
+      "splitMethod": "equal"
+    },
+    {
+      "date": "2024-09-23",
+      "description": "קניית ספרי לימוד",
+      "amount": 320,
+      "category": "בידור",
+      "paidBy": "שותפה",
+      "splitMethod": "equal"
     }
   ]
 }
