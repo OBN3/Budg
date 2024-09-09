@@ -19,6 +19,14 @@
       "category": "מזון",
       "paidBy": "שותף",
       "splitMethod": "equal"
+    },
+    {
+      "date": "2024-09-04",
+      "description": "הופעה של אהוד בנאי",
+      "amount": 300,
+      "category": "בידור",
+      "paidBy": "שותפה",
+      "splitMethod": "equal"
     }
   ]
 }
