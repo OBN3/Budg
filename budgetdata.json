@@ -27,6 +27,14 @@
       "category": "בידור",
       "paidBy": "שותפה",
       "splitMethod": "equal"
+    },
+    {
+      "date": "2024-08-04",
+      "description": "סושי",
+      "amount": 150,
+      "category": "מסעדה",
+      "paidBy": "שותף",
+      "splitMethod": "equal"
     }
   ]
 }
