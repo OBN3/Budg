@@ -5,23 +5,23 @@
   },
   "expenses": [
     {
-      "date": "2024-09-15",
+      "date": "2024-09-08",
       "description": "סופרמרקט",
       "amount": 156.35,
       "category": "מזון",
-      "paidBy": "שותפה",
+      "paidBy": "שותף",
       "splitMethod": "equal"
     },
     {
-      "date": "2024-08-22",
+      "date": "2024-09-06",
       "description": "שוק",
       "amount": 255.75,
       "category": "מזון",
       "paidBy": "שותף",
-      "splitMethod": "full"
+      "splitMethod": "equal"
     },
     {
-      "date": "2024-07-30",
+      "date": "2024-09-04",
       "description": "הופעה של אהוד בנאי",
       "amount": 300,
       "category": "בידור",
@@ -29,194 +29,18 @@
       "splitMethod": "equal"
     },
     {
-      "date": "2024-09-03",
+      "date": "2024-08-04",
       "description": "סושי",
       "amount": 150,
       "category": "מסעדה",
       "paidBy": "שותף",
-      "splitMethod": "full"
+      "splitMethod": "equal"
     },
     {
-      "date": "2024-08-11",
+      "date": "2024-08-15",
       "description": "מלון באילת",
       "amount": 2000,
       "category": "נופש",
-      "paidBy": "שותפה",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-07-18",
-      "description": "תשלום חשבון חשמל",
-      "amount": 320.5,
-      "category": "שונות",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-09-07",
-      "description": "קניית בגדים",
-      "amount": 450.75,
-      "category": "שונות",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-08-29",
-      "description": "תדלוק רכב",
-      "amount": 280,
-      "category": "שונות",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-07-05",
-      "description": "ספר חדש",
-      "amount": 85.9,
-      "category": "בידור",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-09-20",
-      "description": "ארוחת בוקר במסעדה",
-      "amount": 120,
-      "category": "מסעדה",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-08-14",
-      "description": "כרטיסים לקולנוע",
-      "amount": 80,
-      "category": "בידור",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-07-25",
-      "description": "תשלום חשבון מים",
-      "amount": 180.25,
-      "category": "שונות",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-09-01",
-      "description": "קניית מתנה ליום הולדת",
-      "amount": 200,
-      "category": "שונות",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-08-18",
-      "description": "תיקון מכונת כביסה",
-      "amount": 350,
-      "category": "שונות",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-07-09",
-      "description": "ארוחת ערב במסעדה איטלקית",
-      "amount": 220,
-      "category": "מסעדה",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-09-12",
-      "description": "קניית מוצרי ניקיון",
-      "amount": 95.6,
-      "category": "מזון",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-08-07",
-      "description": "כרטיס לקונצרט",
-      "amount": 180,
-      "category": "בידור",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-07-28",
-      "description": "תשלום ביטוח רכב",
-      "amount": 1200,
-      "category": "שונות",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-09-17",
-      "description": "קניית ציוד ספורט",
-      "amount": 300,
-      "category": "שונות",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-08-02",
-      "description": "תשלום חשבון אינטרנט",
-      "amount": 120,
-      "category": "שונות",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-07-13",
-      "description": "קניית מזון לחיות מחמד",
-      "amount": 150.8,
-      "category": "מזון",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-09-09",
-      "description": "תשלום דמי ניהול בית משותף",
-      "amount": 200,
-      "category": "שונות",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-08-26",
-      "description": "קניית תרופות בבית מרקחת",
-      "amount": 85.3,
-      "category": "שונות",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "2024-07-21",
-      "description": "תשלום חניה חודשית",
-      "amount": 250,
-      "category": "שונות",
-      "paidBy": "שותף",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-09-23",
-      "description": "קניית ספרי לימוד",
-      "amount": 320,
-      "category": "בידור",
-      "paidBy": "שותפה",
-      "splitMethod": "full"
-    },
-    {
-      "date": "",
-      "description": "",
-      "amount": null,
-      "category": "",
-      "paidBy": "",
-      "splitMethod": "equal"
-    },
-    {
-      "date": "2024-09-23",
-      "description": "קניית ספרי לימוד",
-      "amount": 320,
-      "category": "בידור",
       "paidBy": "שותפה",
       "splitMethod": "equal"
     }
