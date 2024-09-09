@@ -59,6 +59,14 @@
       "category": "שונות",
       "paidBy": "שותפה",
       "splitMethod": "equal"
+    },
+    {
+      "date": "2024-09-09",
+      "description": "החזר חוב 2",
+      "amount": 160.9,
+      "category": "שונות",
+      "paidBy": "שותפה",
+      "splitMethod": "full"
     }
   ]
 }
