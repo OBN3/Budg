@@ -67,6 +67,14 @@
       "category": "שונות",
       "paidBy": "שותפה",
       "splitMethod": "full"
+    },
+    {
+      "date": "2024-08-13",
+      "description": "ירקות ופירות",
+      "amount": 145.75,
+      "category": "מזון",
+      "paidBy": "שותף",
+      "splitMethod": "equal"
     }
   ]
 }
