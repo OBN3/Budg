@@ -11,6 +11,14 @@
       "category": "מזון",
       "paidBy": "שותף",
       "splitMethod": "equal"
+    },
+    {
+      "date": "2024-09-06",
+      "description": "שוק",
+      "amount": 255.75,
+      "category": "מזון",
+      "paidBy": "שותף",
+      "splitMethod": "equal"
     }
   ]
 }
