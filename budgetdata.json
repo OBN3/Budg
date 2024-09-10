@@ -75,6 +75,14 @@
       "category": "מזון",
       "paidBy": "שותף",
       "splitMethod": "equal"
+    },
+    {
+      "date": "2024-08-13",
+      "description": "גבינות",
+      "amount": 125.5,
+      "category": "מזון",
+      "paidBy": "שותפה",
+      "splitMethod": "equal"
     }
   ]
 }
